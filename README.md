@@ -25,6 +25,8 @@ Alex Raule: Radix sort
 
 paulon luca: merge sort
 
+Xinyi Zhu: Heap Sort
+
 
 ## Contributing
 
